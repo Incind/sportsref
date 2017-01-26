@@ -11,5 +11,6 @@ import decorators
 import utils
 import nfl
 import nba
+import ncaaf
 
-__all__ = ['decorators', 'utils', 'nfl', 'nba', 'SITE_ABBREV']
+__all__ = ['decorators', 'utils', 'nfl', 'nba', 'ncaaf', 'SITE_ABBREV']
